@@ -5,7 +5,7 @@ Python bindings for the `selectic` Rust library, providing cross-platform access
 ## Installation
 
 ```bash
-pip install selectic
+pip install selectic-py
 ```
 
 Or install from source:
